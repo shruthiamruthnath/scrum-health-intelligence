@@ -39,6 +39,10 @@ python -m unittest discover -s tests -v
 
 No Jira, Confluence, or model-provider credentials are needed for the sample experience.
 
+## Next steps
+
+After the sample dashboard is running, follow the [Getting Started and Next Steps guide](docs/getting-started.md) to validate the experience, run tests, review the white paper, connect a Jira sandbox, and plan a responsible live-data pilot.
+
 ## API
 
 | Endpoint | Purpose |
