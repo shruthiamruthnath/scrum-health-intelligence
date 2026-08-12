@@ -1,0 +1,34 @@
+{
+  "title": "Scrum Health Intelligence",
+  "description": "An explainable, AI-ready reference implementation for turning Jira and Confluence delivery data into early risk signals, dependency insights, and executive product reporting.",
+  "creators": [
+    {
+      "name": "Amruthnath, Shruthi"
+    }
+  ],
+  "access_right": "open",
+  "license": "MIT",
+  "upload_type": "software",
+  "keywords": [
+    "Scrum",
+    "artificial intelligence",
+    "Jira",
+    "Confluence",
+    "delivery risk",
+    "dependency management",
+    "engineering leadership",
+    "product management"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.21906808",
+      "relation": "isSupplementTo",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "https://github.com/shruthiamruthnath/scrum-health-intelligence",
+      "relation": "isIdenticalTo",
+      "scheme": "url"
+    }
+  ]
+}
