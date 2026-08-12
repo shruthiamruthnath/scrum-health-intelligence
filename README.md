@@ -1,5 +1,7 @@
 # Scrum Health Intelligence
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21906808.svg)](https://doi.org/10.5281/zenodo.21906808)
+
 An explainable, AI-ready reference implementation for turning Jira and Confluence delivery data into early risk signals, dependency insights, and executive product reporting.
 
 This repository pairs a product white paper with runnable source code. The MVP uses sample data and the Python standard library, so it runs without cloud credentials or third-party packages.
@@ -19,7 +21,13 @@ The project deliberately avoids individual performance scores and velocity targe
 - Sample Jira/Confluence-style domain data
 - JSON APIs for health snapshots, risks, dependencies, and briefs
 - Automated unit and HTTP smoke tests
-- 17-page product white paper under [`docs/`](docs/)
+- Published 17-page product white paper: [Zenodo record](https://doi.org/10.5281/zenodo.21906808), [PDF](docs/Scrum_Health_Intelligence_White_Paper.pdf), and [Word version](docs/Scrum_Health_Intelligence_White_Paper.docx)
+
+## Published white paper
+
+**Amruthnath, Shruthi. (2026). _Scrum Health Intelligence: From Retrospective Reporting to Early, Explainable Delivery Decisions_. Zenodo.** [https://doi.org/10.5281/zenodo.21906808](https://doi.org/10.5281/zenodo.21906808)
+
+The Zenodo record is the permanent, citable version of the white paper. The source code and evolving implementation remain in this repository.
 
 ## Quick start
 
