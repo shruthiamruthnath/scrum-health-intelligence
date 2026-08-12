@@ -1,0 +1,14 @@
+[project]
+name = "scrum-health-intelligence"
+version = "0.1.0"
+description = "Explainable delivery health, dependency risk, and executive reporting for Jira and Confluence"
+requires-python = ">=3.11"
+license = {text = "MIT"}
+authors = [{name = "Shruthi Amruthnath"}]
+
+[project.scripts]
+scrum-health = "scrum_health.server:main"
+
+[tool.unittest]
+start-directory = "tests"
+
